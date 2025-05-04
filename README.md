@@ -39,7 +39,7 @@ This project analyzes a Diwali sales dataset to extract business insights and he
 ## 🖼 Visual Snapshots
 
 ### 🎯 Gender-based Purchase Analysis  
-![Gender Analysis](https://github.com/)
+![Gender Analysis](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/561150d58f1b84ece395200537571dc4fa60071b/Gender%20Based%20Purchase.png)
 
 ### 📅 Age Group vs Total Purchase  
 ![Age Group](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/6e2dc82073601d0ad60348c4a26530d914374fb9/Age%20group.png)
