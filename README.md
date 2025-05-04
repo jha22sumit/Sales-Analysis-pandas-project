@@ -86,3 +86,9 @@ This project analyzes a Diwali sales dataset to extract business insights and he
 
 ---
 
+## 📬 Contact
+Feel free to open an issue or connect for feedback and suggestions. Contributions are welcome!
+
+Let me know if you’d like this saved as a downloadable README.md file.
+
+
