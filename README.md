@@ -46,7 +46,7 @@ This project analyzes a Diwali sales dataset to extract business insights and he
 
 
 ### 🏙 Top 10 Cities by Purchase  
-![City Sales](
+![City Sales](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/38c27d0d33bebf3d07c7bdbfd2bc3e30472e0a35/top%2010%20Cities.png)
 
 ### 🧑 Occupation vs Total Purchase  
 ![Occupation](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/a086e5af11b6a51465c97cf07f0262557a80beec/Occupation%20Purchase.png
