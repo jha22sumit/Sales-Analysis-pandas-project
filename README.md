@@ -53,7 +53,7 @@ This project analyzes a Diwali sales dataset to extract business insights and he
 )
 
 ### 📦 Top Selling Product Categories  
-![Product Sales](images/top_products.png)
+![Product Sales](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/dcd72cbb3747b6d066d7819eba6b8f2c2b61db55/Product%20Category.png)
 
 > *(Ensure to upload these image files in an `images/` folder in your GitHub repo.)*
 
