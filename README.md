@@ -42,10 +42,13 @@ This project analyzes a Diwali sales dataset to extract business insights and he
 ![Gender Analysis](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/6e2dc82073601d0ad60348c4a26530d914374fb9/Age%20group.png)
 
 ### 📅 Age Group vs Total Purchase  
-![Age Group](images/age_vs_purchase.png)
+![Age Group](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/a086e5af11b6a51465c97cf07f0262557a80beec/Occupation%20Purchase.png
+)
 
 ### 🏙 Top 10 Cities by Purchase  
-![City Sales](images/city_sales.png)
+![City Sales](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/d1d8dd64ff4813f4980326867a59e5044ae2bc0d/Occupation.png
+
+)
 
 ### 🧑 Occupation vs Total Purchase  
 ![Occupation](images/occupation_sales.png)
