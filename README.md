@@ -39,19 +39,18 @@ This project analyzes a Diwali sales dataset to extract business insights and he
 ## 🖼 Visual Snapshots
 
 ### 🎯 Gender-based Purchase Analysis  
-![Gender Analysis](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/6e2dc82073601d0ad60348c4a26530d914374fb9/Age%20group.png)
+![Gender Analysis](https://github.com/)
 
 ### 📅 Age Group vs Total Purchase  
-![Age Group](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/a086e5af11b6a51465c97cf07f0262557a80beec/Occupation%20Purchase.png
-)
+![Age Group](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/6e2dc82073601d0ad60348c4a26530d914374fb9/Age%20group.png)
+
 
 ### 🏙 Top 10 Cities by Purchase  
-![City Sales](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/d1d8dd64ff4813f4980326867a59e5044ae2bc0d/Occupation.png
-
-)
+![City Sales](
 
 ### 🧑 Occupation vs Total Purchase  
-![Occupation](images/occupation_sales.png)
+![Occupation](https://github.com/jha22sumit/Sales-Analysis-pandas-project/blob/a086e5af11b6a51465c97cf07f0262557a80beec/Occupation%20Purchase.png
+)
 
 ### 📦 Top Selling Product Categories  
 ![Product Sales](images/top_products.png)
